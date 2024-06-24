@@ -11,7 +11,7 @@ Use custom components throughout the application.
 ## Getting Started
 Installation
 ### Clone the repository:
-git clone https://github.com/yourusername/rn-assignment5-11355543.git
+git clone https://github.com/SulemanaAbu/rn-assignment5-11355543.git
 cd rn-assignment5-ID
 ## Development Process
 ### Task 1: Recreate the UI Mockup
@@ -31,9 +31,13 @@ Created custom components for reusability and better code management.
 Ensured components are adaptable to both light and dark themes.
 ## Screenshots
 ### Light Mode
+![image](https://github.com/SulemanaAbu/rn-assignment5-11355543/assets/151389012/e8047802-9f59-4e5b-87ca-51e57b6cdc13)
+![image](https://github.com/SulemanaAbu/rn-assignment5-11355543/assets/151389012/303bf643-f159-426a-8da8-dca3f5279448)
 
 
 ### Dark Mode
+![image](https://github.com/SulemanaAbu/rn-assignment5-11355543/assets/151389012/b5d451b3-50ab-4f7c-b765-82bed60a0270)
+![image](https://github.com/SulemanaAbu/rn-assignment5-11355543/assets/151389012/e9178f39-a102-42bb-8ec4-53bf4c3f3ca2)
 
 Resources
 Access the UI Design here: [UI Design]
